@@ -1,3 +1,7 @@
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue)
+![Excel](https://img.shields.io/badge/Tool-Excel-green)
+![PowerPivot](https://img.shields.io/badge/PowerPivot-DAX-yellow)
+
 # 🎓 Online Course Platform Analytics Dashboard
 
 ![Dashboard Screenshot](assets/dashboard_screenshot.png)
