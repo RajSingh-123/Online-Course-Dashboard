@@ -79,26 +79,22 @@ A detailed write-up of the business problem, data model, process, and insights i
 
 
 🌟 Highlights
-✔️ Unified Data Model combining main and SQL output tables
-✔️ Recruiter-friendly dashboard with clear KPIs
-✔️ End-to-end workflow: SQL → Excel → Visualization
-✔️ Demonstrates real-world analytics thinking
+- ✔️ Unified Data Model combining main and SQL output tables
+- ✔️ Recruiter-friendly dashboard with clear KPIs
+- ✔️ End-to-end workflow: SQL → Excel → Visualization
+- ✔️ Demonstrates real-world analytics thinking
 
 💡 Example Business Insights
-📈 Digital Marketing and Data Analysis were the most engaging courses (highest completion rates)
-
-📉 Machine Learning Essentials showed high dropout rates (~45%)
-
-💵 Instructor Agata Kunrad generated the highest revenue despite fewer courses
-
-🌍 Most active learners were from specific high-engagement regions
-
-(For full details, see the Case Study PDF)
+- 📈 Digital Marketing and Data Analysis were the most engaging courses (highest completion rates)
+- 📉 Machine Learning Essentials showed high dropout rates (~45%)
+- 💵 Instructor Agata Kunrad generated the highest revenue despite fewer courses
+- 🌍 Most active learners were from specific high-engagement regions
+- (For full details, see the Case Study PDF)
 
 👨‍💻 Author
 Raj Singh
-📧 rajsingh3706@email.com
-🌐 https://github.com/RajSingh-123
+- 📧 rajsingh3706@email.com
+- 🌐 https://github.com/RajSingh-123
 
 📜 License
 This project is licensed under the MIT License – see LICENSE.md for details.
