@@ -1,0 +1,151 @@
+course_id,course_title,category,instructor_id, price 
+1,Data Analysis Fundamentals,Graphic Design,1,579.00
+2,Data Analysis Fundamentals,Product Management,2,548.00
+3,Machine Learning Essentials,Product Management,3,583.00
+4,Python for Data Science,Graphic Design,4,457.00
+5,Python for Data Science,Finance,5,785.00
+6,Web Development Basics,Marketing,6,583.00
+7,Machine Learning Essentials,Software Development,7,647.00
+8,Python for Data Science,Graphic Design,8,738.00
+9,Data Analysis Fundamentals,Product Management,9,863.00
+10,Machine Learning Essentials,Software Development,10,337.00
+11,Machine Learning Essentials,Marketing,11,913.00
+12,Digital Marketing Strategies,Finance,12,742.00
+13,Digital Marketing Strategies,Software Development,13,784.00
+14,Data Analysis Fundamentals,Software Development,14,767.00
+15,Digital Marketing Strategies,Product Management,15,754.00
+16,Python for Data Science,Marketing,16,292.00
+17,Machine Learning Essentials,Finance,17,541.00
+18,Web Development Basics,Graphic Design,18,435.00
+19,Digital Marketing Strategies,Graphic Design,19,331.00
+20,Python for Data Science,Software Development,20,846.00
+21,Web Development Basics,Product Management,21,691.00
+22,Python for Data Science,Software Development,22,742.00
+23,Digital Marketing Strategies,Software Development,23,508.00
+24,Digital Marketing Strategies,Product Management,24,432.00
+25,Web Development Basics,Marketing,25,726.00
+26,Machine Learning Essentials,Software Development,26,895.00
+27,Python for Data Science,Graphic Design,27,672.00
+28,Python for Data Science,Software Development,28,663.00
+29,Machine Learning Essentials,Product Management,29,954.00
+30,Web Development Basics,Graphic Design,30,390.00
+31,Web Development Basics,Product Management,31,866.00
+32,Digital Marketing Strategies,Product Management,32,401.00
+33,Web Development Basics,Marketing,33,532.00
+34,Digital Marketing Strategies,Finance,34,845.00
+35,Machine Learning Essentials,Finance,35,275.00
+36,Web Development Basics,Finance,36,566.00
+37,Python for Data Science,Software Development,37,822.00
+38,Machine Learning Essentials,Finance,38,405.00
+39,Machine Learning Essentials,Finance,39,506.00
+40,Data Analysis Fundamentals,Marketing,40,769.00
+41,Web Development Basics,Finance,41,680.00
+42,Data Analysis Fundamentals,Software Development,42,923.00
+43,Python for Data Science,Product Management,43,541.00
+44,Digital Marketing Strategies,Product Management,44,439.00
+45,Digital Marketing Strategies,Marketing,45,790.00
+46,Data Analysis Fundamentals,Marketing,46,538.00
+47,Digital Marketing Strategies,Product Management,47,265.00
+48,Machine Learning Essentials,Graphic Design,48,990.00
+49,Digital Marketing Strategies,Graphic Design,49,529.00
+50,Python for Data Science,Product Management,50,979.00
+51,Python for Data Science,Finance,51,638.00
+52,Data Analysis Fundamentals,Software Development,52,729.00
+53,Data Analysis Fundamentals,Finance,53,500.00
+54,Machine Learning Essentials,Graphic Design,54,422.00
+55,Digital Marketing Strategies,Marketing,55,515.00
+56,Machine Learning Essentials,Software Development,56,927.00
+57,Digital Marketing Strategies,Product Management,57,871.00
+58,Data Analysis Fundamentals,Software Development,58,350.00
+59,Machine Learning Essentials,Finance,59,964.00
+60,Python for Data Science,Marketing,60,399.00
+61,Machine Learning Essentials,Software Development,61,720.00
+62,Data Analysis Fundamentals,Software Development,62,542.00
+63,Digital Marketing Strategies,Software Development,63,520.00
+64,Web Development Basics,Software Development,64,428.00
+65,Digital Marketing Strategies,Graphic Design,65,577.00
+66,Python for Data Science,Product Management,66,835.00
+67,Python for Data Science,Finance,67,813.00
+68,Machine Learning Essentials,Software Development,68,935.00
+69,Machine Learning Essentials,Finance,69,858.00
+70,Web Development Basics,Finance,70,875.00
+71,Digital Marketing Strategies,Software Development,71,402.00
+72,Python for Data Science,Product Management,72,471.00
+73,Machine Learning Essentials,Graphic Design,73,770.00
+74,Web Development Basics,Marketing,74,579.00
+75,Digital Marketing Strategies,Graphic Design,75,984.00
+76,Python for Data Science,Software Development,76,649.00
+77,Python for Data Science,Graphic Design,77,825.00
+78,Data Analysis Fundamentals,Product Management,78,783.00
+79,Digital Marketing Strategies,Product Management,79,560.00
+80,Python for Data Science,Marketing,80,691.00
+81,Python for Data Science,Product Management,81,630.00
+82,Machine Learning Essentials,Graphic Design,82,861.00
+83,Digital Marketing Strategies,Graphic Design,83,254.00
+84,Data Analysis Fundamentals,Software Development,84,949.00
+85,Machine Learning Essentials,Software Development,85,558.00
+86,Digital Marketing Strategies,Finance,86,978.00
+87,Python for Data Science,Graphic Design,87,596.00
+88,Machine Learning Essentials,Software Development,88,720.00
+89,Digital Marketing Strategies,Graphic Design,89,390.00
+90,Web Development Basics,Finance,90,299.00
+91,Web Development Basics,Product Management,91,371.00
+92,Machine Learning Essentials,Graphic Design,92,352.00
+93,Machine Learning Essentials,Software Development,93,305.00
+94,Web Development Basics,Finance,94,437.00
+95,Machine Learning Essentials,Marketing,95,839.00
+96,Digital Marketing Strategies,Finance,96,871.00
+97,Data Analysis Fundamentals,Finance,97,632.00
+98,Python for Data Science,Software Development,98,319.00
+99,Web Development Basics,Finance,99,893.00
+100,Data Analysis Fundamentals,Graphic Design,100,559.00
+101,Web Development Basics,Product Management,101,751.00
+102,Web Development Basics,Software Development,102,610.00
+103,Python for Data Science,Finance,103,745.00
+104,Digital Marketing Strategies,Software Development,104,359.00
+105,Machine Learning Essentials,Software Development,105,422.00
+106,Data Analysis Fundamentals,Graphic Design,106,550.00
+107,Machine Learning Essentials,Graphic Design,107,807.00
+108,Digital Marketing Strategies,Finance,108,738.00
+109,Python for Data Science,Graphic Design,109,985.00
+110,Digital Marketing Strategies,Finance,110,601.00
+111,Web Development Basics,Marketing,111,864.00
+112,Python for Data Science,Graphic Design,112,374.00
+113,Data Analysis Fundamentals,Finance,113,822.00
+114,Python for Data Science,Software Development,114,759.00
+115,Web Development Basics,Marketing,115,599.00
+116,Web Development Basics,Graphic Design,116,775.00
+117,Digital Marketing Strategies,Graphic Design,117,309.00
+118,Web Development Basics,Graphic Design,118,596.00
+119,Digital Marketing Strategies,Product Management,119,963.00
+120,Machine Learning Essentials,Graphic Design,120,433.00
+121,Digital Marketing Strategies,Graphic Design,121,378.00
+122,Web Development Basics,Software Development,122,601.00
+123,Digital Marketing Strategies,Software Development,123,343.00
+124,Web Development Basics,Product Management,124,383.00
+125,Python for Data Science,Graphic Design,125,591.00
+126,Data Analysis Fundamentals,Finance,126,292.00
+127,Web Development Basics,Product Management,127,485.00
+128,Web Development Basics,Graphic Design,128,754.00
+129,Machine Learning Essentials,Product Management,129,461.00
+130,Web Development Basics,Marketing,130,509.00
+131,Machine Learning Essentials,Marketing,131,553.00
+132,Machine Learning Essentials,Product Management,132,514.00
+133,Web Development Basics,Marketing,133,924.00
+134,Machine Learning Essentials,Graphic Design,134,459.00
+135,Python for Data Science,Marketing,135,712.00
+136,Data Analysis Fundamentals,Marketing,136,829.00
+137,Digital Marketing Strategies,Product Management,137,776.00
+138,Web Development Basics,Graphic Design,138,365.00
+139,Machine Learning Essentials,Product Management,139,335.00
+140,Machine Learning Essentials,Product Management,140,276.00
+141,Data Analysis Fundamentals,Software Development,141,791.00
+142,Digital Marketing Strategies,Marketing,142,277.00
+143,Machine Learning Essentials,Finance,143,817.00
+144,Data Analysis Fundamentals,Finance,144,970.00
+145,Data Analysis Fundamentals,Marketing,145,604.00
+146,Python for Data Science,Finance,146,955.00
+147,Data Analysis Fundamentals,Graphic Design,147,474.00
+148,Python for Data Science,Finance,148,795.00
+149,Python for Data Science,Graphic Design,149,743.00
+150,Digital Marketing Strategies,Marketing,150,576.00
